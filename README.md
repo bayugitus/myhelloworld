@@ -1,5 +1,5 @@
 # HelloWorld
 
-# Sample [![Awesome](ClickMe)](https://www.google.com/e)
+# Sample [![Awesome]](https://www.google.com)
 
 ### Description
